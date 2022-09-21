@@ -1,36 +1,40 @@
-* {
+/* Universal selector */
+*{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Type selector */
 body {
     background-color: #d9dcd6;
 }
 
+/* Added header display property to keep the elements inside 
+    header class at the same horizontal level. */
+/* Type selector */
 header {
     display: inline;
 }
 
+/* Class selector */
 .header {
-    display: inline-block;
     padding: 20px;
-    width: 100%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
 .header h1 {
-    display: inline;
+    display: inline-block;
     font-size: 48px;
 }
 
 .header h1 .seo {
-    display: inline;
     color: #d9dcd6;
 }
 
+/* Changed div element into nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -195,9 +199,16 @@ p {
     font-size: 36px;
 }
 
+/* Made padding smaller for a neatter look */
+/* Class selector */
+
 .footer {
-    padding: 30px;
+    padding: 5px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
+/* deleted .footer h2 because it didn't seem professional. 
+    If I left it I would change the h2 into h4 to follow
+    HTML structure logic */
