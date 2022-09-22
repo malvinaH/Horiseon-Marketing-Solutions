@@ -53,6 +53,7 @@ header {
     margin-left: 25px;
 }
 
+/* type selector */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -62,6 +63,7 @@ p {
     font-size: 16px;
 }
 
+/* class selector */
 .hero {
     height: 800px;
     width: 100%;
@@ -142,7 +144,7 @@ p {
     text-align: center;
 }
 
-/* deleted .footer h2 because it didn't seem professional. 
+/* deleted .footer h2 because it didn't seem professional. The mock up does't have it either. 
     If I left it I would change the h2 into h4 to follow
     HTML structure logic */
 
