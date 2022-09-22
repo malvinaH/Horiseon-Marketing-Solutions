@@ -123,13 +123,13 @@ p {
     color: #ffffff;
 }
 
-.content img {
-    max-height: 200px;
-}
-
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.content img {
+    max-height: 200px;
 }
 
 /* Made padding smaller for a neatter look */
