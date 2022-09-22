@@ -1,4 +1,4 @@
-# <Horiseon - Marketing solutions>
+# Horiseon - Marketing solutions
 
 ## Description
 
