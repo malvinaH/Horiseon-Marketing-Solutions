@@ -98,17 +98,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -173,3 +163,4 @@ p {
 /* deleted .footer h2 because it didn't seem professional. 
     If I left it I would change the h2 into h4 to follow
     HTML structure logic */
+
