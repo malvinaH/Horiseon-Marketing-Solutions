@@ -10,8 +10,8 @@ https://malvinah.github.io/Horiseon-Marketing-Solutions/
 
 ## Screenshot
 
-![First half of the webpage](./asset/images/horiseon.jpg?raw=true "Horiseon 1")
-![Second half of the webpage](./asset/images/horiseon2.jpg?raw=true "Horiseon 2")
+![First half of the webpage](./assets/images/horiseon.png?raw=true "Horiseon 1")
+![Second half of the webpage](./assets/images/horiseon2.png?raw=true "Horiseon 2")
 
  
 ## Licence
